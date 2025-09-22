@@ -1,0 +1,25 @@
+{
+  "name": "hqvt-font-manager",
+  "version": "1.0.0",
+  "description": "一个简单易用的字体管理包，支持中英文字体注册和CSS生成。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fonts",
+    "company",
+    "css"
+  ],
+  "author": "hqvtHRC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hqvtHRC/hqvt-font-manager.git"
+  },
+  "files": [
+    "index.js",
+    "fonts/",
+    "README.md"
+  ]
+}
