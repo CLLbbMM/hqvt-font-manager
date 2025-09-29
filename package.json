@@ -1,6 +1,6 @@
 {
   "name": "hqvt-font-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个简单易用的字体管理包，支持中英文字体注册和CSS生成。",
   "main": "index.js",
   "scripts": {
